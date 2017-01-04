@@ -9,20 +9,20 @@ If they manage to arrive at a specific location that is available for sale, they
 
 The game will conclude after 4 rounds of play and the total amount of asset for each player will be tabulated and displayed accordingly.
 
-1)	A deck of 8 community chest cards will be shuffled before the start of each game.
-  A.	It's your birthday, everyone gives you $100
-  B.	Pay School Fee $500
-  C.	Life Insurance Matures, collect $120
-  D.	Donate $50 to charity
-  E.	Advance to GO
-  F.	Receive for services $25
-  G.	Go back 2 spaces
-  H.	You are very generous today, give each other $20
-2)	Players to collect $200 when they pass "GO".
-3)	Collect 10% rental fees of the property value if the player is on your property.
-4)	Allow the players to engage in a chat session with each other during the game.
-5)	Allow the player to restart the game after a game is completed.
-6)	Allow the player to quit the game and show results.
+1)	A deck of 8 community chest cards will be shuffled before the start of each game.<br />
+  A.	It's your birthday, everyone gives you $100<br />
+  B.	Pay School Fee $500<br />
+  C.	Life Insurance Matures, collect $120<br />
+  D.	Donate $50 to charity<br />
+  E.	Advance to GO<br />
+  F.	Receive for services $25<br />
+  G.	Go back 2 spaces<br />
+  H.	You are very generous today, give each other $20<br />
+2)	Players to collect $200 when they pass "GO".<br />
+3)	Collect 10% rental fees of the property value if the player is on your property.<br />
+4)	Allow the players to engage in a chat session with each other during the game.<br />
+5)	Allow the player to restart the game after a game is completed.<br />
+6)	Allow the player to quit the game and show results.<br />
 
 The server program (Banker) will be hosting the game which allows the user to enter the numbers of players connecting to the game. The client program will be the one prompting the user for their name and IP address of the server. 
 
